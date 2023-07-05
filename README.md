@@ -10,9 +10,12 @@
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
-  <a href="#download">Acess</a> •
-  <a href="#credits">Author</a> •
- </p>
+  <a href="#access">Access</a> •
+  <a href="#author">Author</a>
+</p>
+
+## Video
+Click [here](https://vimeo.com/842639345?share=copy) to watch the video.
 
 ## Key Features
 
@@ -25,13 +28,12 @@
 * Administration Dashboard: Store owners have access to an intuitive administration dashboard where they can monitor and manage their sales, inventory, and other important aspects.
 * Customization: Meteora offers various customization options, allowing users to adapt the appearance and layout of their stores according to their preferences.
 
-## Acess
+## Access
 
-* Clone this repository: git clone https://github.com/keodevspace/Meteora_ECommerce.git
-* Navigate to the project directory: cd Meteora_ECommerce
-  
-* Access Meteora in your browser at https://keodevspace.github.io/Meteora_ECommerce/
+* Clone this repository: `git clone https://github.com/keodevspace/Meteora_ECommerce.git`
+* Navigate to the project directory: `cd Meteora_ECommerce`
+* Access Meteora in your browser at [https://keodevspace.github.io/Meteora_ECommerce/](https://keodevspace.github.io/Meteora_ECommerce/)
 
 ## Author
-Meteora E-Commerce was developed by KeoDevSpace.
 
+Meteora E-Commerce was developed by KeoDevSpace.
